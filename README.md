@@ -1,5 +1,5 @@
 # Netrunners
-Sujet Coding club sur le thème de Cyberpunk
+Sujet Coding Club sur le thème de Cyberpunk. Pour toute personne voulant découvrir python
 
 ## Sources
 
